@@ -1,5 +1,5 @@
 # Lab Report 1
-## The cd command: </br>
+## The cd command: 
 1. input: `[user@sahara ~]$ cd`
   
    output: `[user@sahara ~]$`
@@ -18,7 +18,7 @@
 
    pwd was /home/lecture1. It tried changing the directory to Hello.java but realized that is not a directory to go to, but rather a file. It errored because Hello.java is a file and the cd commmand does not open files. </br>
 
-## The ls command: </br>
+## The ls command: 
 4. input: `[user@sahara ~]$ ls` </br>
    output: `lecture1` </br>
    pwd was /home. Returned lecture1 because that is the only file at the home level in my workspace. No error here. </br>
