@@ -4,7 +4,7 @@
   
    output: `[user@sahara ~]$`
 
-   pwd was /home. Nothing happened because no argument was provided, so it just defaults to the same directory. No error here.
+   pwd was /home. It appears as if nothing happened because the cd command with no arguments changes the working directory to /home, but that was the working directory before the command was run. No error here.
    
 2. input: `[user@sahara ~]$ cd lecture1`
 
