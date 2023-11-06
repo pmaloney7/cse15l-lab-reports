@@ -44,6 +44,8 @@ To summarize, each request to /add-message with a query parameter s increments t
 ![d](https://github.com/pmaloney7/cse15l-lab-reports/assets/146884245/58a77a50-914c-421c-95b4-63b0f8e85fe3)
 
 ![e](https://github.com/pmaloney7/cse15l-lab-reports/assets/146884245/aee3bb7a-a647-45e7-b460-501e848bdbdf)
+I accidentally created the key on ieng6 computer when I took that screenshot, so here's another one showing that the key is actually on my own desktop pc.
+![f](https://github.com/pmaloney7/cse15l-lab-reports/assets/146884245/e3b8c04b-aa7b-4ae3-be5b-2aad420c63c6)
 
 
 I learned how to better log into remote computers from my own desktop. I also learned that because my computer user name has a space inbetween my first and last name, that causes a lot of problems when running commands because the terminal thinks I am separating arguments with that space. Overall, the ssh makes your life easier since you don't have to type the password every time.
