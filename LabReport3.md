@@ -30,7 +30,7 @@ public void myTestReverseSuccess() {
 ```
 Symptom after running tests:
 ```
-[user@sahara ~/lab3]$ javac -cp ".;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar" *.java
+[user@sahara ~/lab3]$ javac -cp ".:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar" *.java
 [user@sahara ~/lab3]$ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests
 JUnit version 4.13.2
 .E...
@@ -58,7 +58,7 @@ FAILURES!!!
 Tests run: 4, Failures: 1
 
 
-[user@sahara ~/lab3]$ javac -cp ".;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar" *.java
+[user@sahara ~/lab3]$ javac -cp ".:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar" *.java
 [user@sahara ~/lab3]$ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests
 JUnit version 4.13.2
 ...
