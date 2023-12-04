@@ -35,11 +35,13 @@ Here's the finished result
 
 ## Step 8
 I used the up arrow key to bring back bash test.sh which I typed before, and ran it again. Now I get a different result because the file has been updated.
+
 ![image](https://github.com/pmaloney7/cse15l-lab-reports/assets/146884245/fa1d4d73-5249-4415-9f1d-cbbf6c5382a2)
 
+
 ## Step 9 
+I used git add, git commit, and git push to complete this step. git add ListExamples.java stages the file for changes. git commit -m "bug fixes" saves the file changes locally under with the note "bug fixed". Lastly, git push origin main uploads the committed changes to the original repository in the main branch. This all happens remotely.
 
 ![image](https://github.com/pmaloney7/cse15l-lab-reports/assets/146884245/f3dd956e-a17a-42b4-8b8e-2eec388ae9a2)
 
-
-
+![image](https://github.com/pmaloney7/cse15l-lab-reports/assets/146884245/c28a3c50-e257-49b1-a67b-34623a021d06)
